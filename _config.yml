@@ -1,4 +1,4 @@
-url: "http://scottdorman.github.io"
+url: "https://pgagarinov.github.io/scottdorman.github.io/"
 #baseurl: ""
 title: Scott Dorman
 subtitle: Microsoft MVP, Software Architect, Developer, Author
@@ -16,7 +16,7 @@ disqus:
   show_comment_count: true
    
 github:
-  repo: https://github.com/scottdorman/scottdorman.github.io
+  repo: https://github.com/pgagarinov/scottdorman.github.io
 
 gems:
   - jekyll-feed
